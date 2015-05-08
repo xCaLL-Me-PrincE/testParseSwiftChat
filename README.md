@@ -1,4 +1,4 @@
-# SwiftParseChat
+# TestSwiftParseChat
 An Example iOS Chat Application with Parse, written in Swift
 
 ## Screenshots
